@@ -1,3 +1,2 @@
-# Data Structures
+# Master the Coding Interview
 
-## What's a data structure?
